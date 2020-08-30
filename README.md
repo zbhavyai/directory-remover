@@ -20,6 +20,7 @@ A simple Java program to recursively remove the file and/or directory that is su
 
 
 1. Wrapper scripts for Linux and Windows are also provided
+
     For linux,
     ```
     chmod +x RemoveDirectory.sh
@@ -32,9 +33,6 @@ A simple Java program to recursively remove the file and/or directory that is su
     ```
 
 1. During execution, input the file/directory name, either absolute or relative from location of the program
-    ```
-    ./tput-colors.sh
-    ```
 
 1. The program shall not handle the permissions, and may not remove files/directories if the user don't have deletion access. To remove such files/directories, run the program using apt permissions.
 
