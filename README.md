@@ -1,17 +1,14 @@
 ## Java Directory Remover
 A simple Java program to recursively remove the file and/or directory that is supplied as input
-<br/>
-<br/>
+
 
 ### Features
 + Shows the files and directories that are being removed
 + Shows the working depth/descent the removing file is
 + Clearly mentions PASS/FAIL message for each operation (lol)
-<br/>
-<br/>
+
 
 ### Usage
-
 1. The program can be fired using simple java compile and run
     ```
     javac RemoveDirectory/RemoveDirectory.java
