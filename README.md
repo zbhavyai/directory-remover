@@ -1,4 +1,4 @@
-## Java Directory Remover
+## Directory Remover
 A simple Java program to recursively remove the file and/or directory that is supplied as input
 
 
@@ -14,7 +14,6 @@ A simple Java program to recursively remove the file and/or directory that is su
     javac RemoveDirectory/RemoveDirectory.java
     java RemoveDirectory.RemoveDirectory
     ```
-
 
 1. Wrapper scripts for Linux and Windows are also provided
 
