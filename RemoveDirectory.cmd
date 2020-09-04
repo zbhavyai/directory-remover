@@ -5,7 +5,7 @@ PROMPT $P$G$S
 CLS
 
 ::COMPILE THE FILES
-javac RemoveDirectory/RemoveDirectory.java
+javac RemoveDirectory\RemoveDirectory.java
 
 ::SLEEP FOR 2-3 SECONDS
 TIMEOUT 2
